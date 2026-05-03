@@ -56,13 +56,7 @@ This project uses the **Credit Card Fraud Detection Dataset** from Kaggle:
 
 ---
 
-## 📸 Demo
 
-Example of model prediction:
-
-![Fraud Detection Demo](images/demo.png)
-
----
 
 ## ▶️ How to run
 
